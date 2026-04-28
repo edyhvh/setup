@@ -2,10 +2,10 @@
 
 This repository is a reusable baseline of shared AI setup assets collected from:
 
-- /Users/edyhvh/davar
-- /Users/edyhvh/shafan
-- /Users/edyhvh/nave
-- /Users/edyhvh/qahal
+- ~/davar
+- ~/shafan
+- ~/nave
+- ~/qahal
 
 It keeps one canonical copy of duplicate files and preserves unique reusable assets.
 
