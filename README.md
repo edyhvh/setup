@@ -16,13 +16,13 @@ It keeps one canonical copy of duplicate files and preserves unique reusable ass
 - Donations config (`GitHub Sponsors + Ko-fi`) in `.github/FUNDING.yml`
 - All discovered skills in `.github/skills/`
 - Common Cursor rule assets in `.cursor/rules/`
+- Versioned zsh aliases in `shell/aliases.zsh`
 
 ## Prompt Focus (GitHub remote / PR)
 
 Use:
 
-- `.github/prompts/remote.prompt.md` for standard PR command generation
-- `.github/prompts/remote-pr-or-draft.prompt.md` for either draft PR or normal PR
+- `.github/prompts/remote.prompt.md` for PR command generation, including draft-vs-ready selection
 
 ## Notes
 
