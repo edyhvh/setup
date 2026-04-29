@@ -42,15 +42,15 @@ Default to this unless the project clearly needs something else:
 
 ## Decision Table
 
-| Project shape | Default Cloudflare target |
-|---|---|
-| Static site only | Pages |
-| SPA with external API | Pages |
-| API only | Workers |
-| Full-stack app | Pages + Workers |
-| Relational data needed | Add D1 |
-| Read-heavy key/value data | Add KV |
-| File/object storage | Add R2 |
+| Project shape             | Default Cloudflare target |
+| ------------------------- | ------------------------- |
+| Static site only          | Pages                     |
+| SPA with external API     | Pages                     |
+| API only                  | Workers                   |
+| Full-stack app            | Pages + Workers           |
+| Relational data needed    | Add D1                    |
+| Read-heavy key/value data | Add KV                    |
+| File/object storage       | Add R2                    |
 
 ## Naming Convention Before You Start
 
