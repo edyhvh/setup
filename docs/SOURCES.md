@@ -24,6 +24,12 @@
   - same in: shafan, nave, qahal
   - canonical source: `nave`
 
+## Consolidated prompts
+
+- `.github/prompts/remote-pr-or-draft.prompt.md`
+  - merged into: `.github/prompts/remote.prompt.md`
+  - reason: same PR-command workflow, with draft-or-ready mode handled in one canonical prompt
+
 ## Donations
 
 - `.github/FUNDING.yml`
