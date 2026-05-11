@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git PR Command"
+  short_description: "Generate gh pr create commands"
+  default_prompt: "Use $git-pr-command to generate a gh pr create command from recent git changes."

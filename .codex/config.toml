@@ -1,0 +1,48 @@
+personality = "pragmatic"
+model = "gpt-5.5"
+model_reasoning_effort = "medium"
+
+[mcp_servers]
+
+[mcp_servers.paper]
+enabled = true
+url = "http://127.0.0.1:29979/mcp"
+
+[mcp_servers.paper.tools.rename_nodes]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.write_html]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.set_text_content]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.update_styles]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.create_artboard]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.delete_nodes]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.duplicate_nodes]
+approval_mode = "approve"
+
+[mcp_servers.paper.tools.move_nodes]
+approval_mode = "approve"
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."figma@openai-curated"]
+enabled = true
+
+[plugins."browser-use@openai-bundled"]
+enabled = true

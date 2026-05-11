@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Bootstrap"
+  short_description: "Plan a new feature from idea to delivery"
+  default_prompt: "Use $feature-bootstrap to transform this feature request into a scoped implementation plan with files, slices, tests, and acceptance criteria."

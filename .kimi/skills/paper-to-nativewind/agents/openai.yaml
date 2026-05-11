@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper to NativeWind"
+  short_description: "Migrate React Native Paper UI to NativeWind"
+  default_prompt: "Use $paper-to-nativewind to convert this React Native Paper screen/component to NativeWind while preserving behavior and accessibility."

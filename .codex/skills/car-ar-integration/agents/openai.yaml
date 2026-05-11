@@ -1,0 +1,4 @@
+interface:
+  display_name: "AR Integration"
+  short_description: "Plan and implement AR features safely"
+  default_prompt: "Use $ar-integration to design an AR integration plan with capability checks, fallback flows, implementation steps, and validation criteria."

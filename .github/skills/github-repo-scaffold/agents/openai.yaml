@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Repo Scaffold"
+  short_description: "Create GitHub repository files"
+  default_prompt: "Use $github-repo-scaffold to create GitHub repository scaffolding files."

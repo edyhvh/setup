@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Issue Draft"
+  short_description: "Draft structured GitHub issues"
+  default_prompt: "Use $github-issue-draft to turn these notes into a clear GitHub issue."
