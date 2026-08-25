@@ -26,6 +26,7 @@ It keeps one canonical copy of duplicate files and preserves unique reusable ass
 - Codex config and native skills in `.codex/`
 - Kimi config and skills in `.kimi/`
 - Versioned zsh aliases in `shell/aliases.zsh`
+- Ghostty Gruvbox config in `ghostty/config`
 
 ## Prompt Focus (GitHub remote / PR)
 

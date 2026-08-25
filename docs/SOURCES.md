@@ -79,6 +79,10 @@
 
 - `.claude/settings.local.json` (from ~/.claude)
 
+## Ghostty assets included
+
+- `ghostty/config` (from ~/.config/ghostty; theme and SSH terminfo only, no host or account data)
+
 ## Common rule assets included
 
 - `.cursor/rules/bun.mdc` (from davar)
